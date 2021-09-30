@@ -1,0 +1,91 @@
+.nav-sprite{
+    height: 39px;
+
+  display: flex;
+  align-items: center;
+  background-color: #232f3e;;
+  position: sticky;
+  top: 0;
+  z-index: 4px;
+  background-position: 0 -725px;
+}
+
+.nav-left{
+    padding-right: 0;
+    line-height: 12px;
+    height: 35px;
+    position: relative;
+   
+}
+
+.nav-roomIcon{
+    position: absolute;
+    width: 20px;
+    height: 22px;
+    background-position: -68px -340px;
+    left: 30px;
+    top: 6px;
+    margin-left: 125px;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized_layout1._CB468670774_.png);
+}
+
+.nav__option1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-right: 10px;
+    color: white;
+    padding: 4px;
+  
+    
+}
+.nav__optionlineOne {
+    font-size: 11px;
+    color: #ccc;
+    margin-left: 125px;
+
+    
+  
+
+
+    
+}
+
+    .nav__optionlineTwo {
+        font-size: 13px;
+        font-weight: 1000;
+      
+        margin: 1px;
+         color: white;
+         margin-left: 125px;   
+    }
+    .nav__xshop {
+        margin-left: 170px;
+        cursor: pointer;
+        
+        color: white;
+        
+    }
+    .nav__shop-a,.nav__shop-b,.nav__shop-c,.nav__shop-d,.nav__shop-e{
+        color: #fff;
+        font-size: 14px;
+        margin-left: 35px;
+        text-decoration: none;
+        
+    }
+    .nav__shop-a:hover,.nav__shop-b:hover,.nav__shop-c:hover,.nav__shop-d:hover,.nav__shop-e:hover{
+        color: #f8991d;
+    } 
+    
+    
+   
+    
+    
+  
+
+
+
+    
+
+
+
